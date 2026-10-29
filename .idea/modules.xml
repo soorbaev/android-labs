@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/KotlinLab05.iml" filepath="$PROJECT_DIR$/KotlinLab05.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/KotlinLab04.iml" filepath="$PROJECT_DIR$/KotlinLab04.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/KotlinLab03.iml" filepath="$PROJECT_DIR$/KotlinLab03.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/KotlinLab02.iml" filepath="$PROJECT_DIR$/KotlinLab02.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/KotlinLab01.iml" filepath="$PROJECT_DIR$/KotlinLab01.iml" />
+>>>>>>> b282f6d5a9d771ffce042bad0980b8e933833631
+>>>>>>> cbf0e5909e3530a0342dccc5a55c2af8ded0a004
+>>>>>>> b3657a0d9c437adfec6acf2449e3ce642df66f26
+>>>>>>> 064f45d1fea14f940231133b4037f7918779022a
+    </modules>
+  </component>
+</project>
