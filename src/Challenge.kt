@@ -1,11 +1,10 @@
 fun main() {
-    print("Enter names (comma-separated): ")
-    val input = readln()
+    print("Enter age: ")
+    val age = readln().toInt()
 
-    val names = input.split(",")
-
-    for (i in names.indices) {
-        val trimmedName = names[i].trim()
-        println("$i: $trimmedName")
+    if (age in 13..19) {
+        println("Teen")
+    } else {
+        println("Not a teen")
     }
 }
