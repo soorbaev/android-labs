@@ -1,13 +1,8 @@
 fun main() {
-    print("Enter a character to shift: ")
-    val line = readln()
-    val ch = line[0]
+    val letter: Char = 'K'
+    val word: String = "K"
 
-    val shiftedChar = if (ch in 'a'..'z') {
-        'a' + (ch - 'a' + 1) % 26
-    } else {
-        ch
-    }
-
-    println("Result: $shiftedChar")
+    println("letter = $letter")
+    println("word = $word")
+    println("word[0] == letter: ${word[0] == letter}")
 }
